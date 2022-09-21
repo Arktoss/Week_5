@@ -1,4 +1,3 @@
-from asyncore import loop
 import os
 import math
 os.system("cls")
